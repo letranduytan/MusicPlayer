@@ -51,6 +51,12 @@ let track_list = [
     image: "https://i.ytimg.com/vi/ODK1EKmJGbQ/maxresdefault.jpg",
     path: "music/cuonchoanhmotdieunuadi.mp3",
   },
+  {
+    name: "2h",
+    artist: "MCTan",
+    image: "https://cdn.tgdd.vn/Products/Images/10033/131257/hoat-huyet-duong-nao-hop-100-vien-bao-duong-thumb-1-2-600x600.jpg",
+    path: "music/2h.mp3",
+  },
 ];
 
 function random_bg_color() {
