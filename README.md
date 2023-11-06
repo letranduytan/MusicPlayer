@@ -1,4 +1,15 @@
 # Music Player
+
+by LeTranDuyTan
+ 
+-----------------------------------------------------------------------------------------------
+**Contact**
+* [Facebook](https://www.facebook.com/duytan.hh) 
+* [X](https://twitter.com/12dtan) 
+* [Reddit](https://www.reddit.com/user/DuYTano3)
+
+-----------------------------------------------------------------------------------------------
+
 This is a simple User Interface of a music player created in HTML, CSS and JavaScript.
 
 ![Output](/output/html-css.png)
